@@ -1,5 +1,5 @@
-@import url(ej1.css);
+@import url(./ej1.css);
 
 body {
- background: greenyellow;
+ background: rgb(24, 24, 24);
 }
